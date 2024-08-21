@@ -1,2 +1,9 @@
-# Rock-Paper-Scissor
-Rock Paper Scissor Game using Html, CSS, JavaScript.
+# Rock Paper Scissors Game
+
+### Live version: ###
+https://rps-game.netlify.com/
+
+### Created using: ###
+- HTML
+- CSS
+- JavaScript
